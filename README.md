@@ -26,5 +26,6 @@ Python 3.6.4 :: Anaconda, Inc.
   - SVM（線形カーネル）
   - ランダムフォレスト
   - ニューラルネットワーク
-6. 正解率・precision・recall・f-1-score・support、混同行列の表示・比較を行う
-7. モデルの保存
+6. グリッドサーチによるパラメータの最適化
+7. 正解率・precision・recall・f-1-score・support、混同行列の表示・比較を行う
+8. モデルの保存
